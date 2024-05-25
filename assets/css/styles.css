@@ -1,0 +1,193 @@
+@media (min-width: 300px) {
+  img {
+    width: 360px;
+    margin-bottom: -30px;
+    margin-left: -20px;
+    margin-top: 30px;
+  }
+}
+
+@media (min-width: 300px) {
+  .fa.fa-home {
+    margin-left: 30px;
+    margin-top: 25px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .fa.fa-home {
+    margin-left: -60px;
+  }
+}
+
+@media (min-width: 300px) {
+  #txt1 {
+    font-size: 20px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  #txt1 {
+    font-size: 25px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  #phone {
+    width: 700px;
+    margin-left: -120px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #avatars {
+    margin-left: 0px !important;
+    margin-bottom: 25px;
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 300px) {
+  #logoalugaai {
+    margin-left: 0px !important;
+  }
+}
+
+#rodape {
+  text-align: center !important;
+}
+
+@media (min-width: 300px) {
+  .pt-xs-5 {
+    width: 300px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .pt-xs-5 {
+    width: 1500px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #headingsite {
+    font-size: 27px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  #headingsite {
+    font-size: 57.52px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #subsite {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #subsite {
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #titulopequeno {
+    margin-left: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #titulopequeno {
+    margin-left: 0px;
+  }
+}
+
+@media (min-width: 300px) {
+  #intcards {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 1200px) {
+  #intcards {
+    visibility: visible;
+  }
+}
+
+@media (min-width: 300px) {
+  #friendslist {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 1200px) {
+  #friendslist {
+    visibility: visible;
+  }
+}
+
+@media (min-width: 300px) {
+  #btnmeio {
+    width: 290px !important;
+    margin-left: -5px !important;
+    margin-right: 0px !important;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-content: center;
+  }
+}
+
+@media (min-width: 1200px) {
+  #btnmeio {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 300px) {
+  #btnmeio-1 {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 1200px) {
+  #btnmeio-1 {
+    visibility: visible;
+    margin-top: -65px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #subir {
+    margin-bottom: -130px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  #subir {
+    margin-bottom: 0px !important;
+  }
+}
+
+@media (min-width: 300px) {
+  #baixo {
+    margin-bottom: -110px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #baixo {
+    margin-bottom: 0px;
+  }
+}
+
+@media (min-width: 300px) {
+  body {
+    overflow-x: hidden !important;
+  }
+}
