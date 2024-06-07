@@ -1,3 +1,7 @@
+.wrapper {
+  overflow-x: hidden !important;
+}
+
 @media (min-width: 300px) {
   img {
     width: 360px;
@@ -183,11 +187,5 @@
 @media (min-width: 1200px) {
   #baixo {
     margin-bottom: 0px;
-  }
-}
-
-@media (min-width: 300px) {
-  body {
-    overflow-x: hidden !important;
   }
 }
